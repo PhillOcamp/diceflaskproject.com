@@ -1,0 +1,16 @@
+body {
+
+    background-color: #CDEDFF;
+
+
+}
+button:hover {
+
+    background-color: #9291A4;
+
+}
+div {
+    height: 200px;
+    width: 50%;
+
+}
